@@ -33,10 +33,6 @@ pax-utils  -- it is dumpelf file.(dumpelf ./getkey.elf)
 readelf -- to print all info of elf file(readelf -a ./programs/blank/getkey.elf)
 
 
-PeachOS:
--------
-Ref github Repo: https://github.com/nibblebits/PeachOS
-
 Burn bootloader to a USB:
 ---
 sudo dd if=./boot.bin of=/dev/sdb
