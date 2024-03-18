@@ -5,7 +5,7 @@
 
 int main(int argc, char** argv) {
 
-   print("\nexecuted");
+   print("\n Command Executed\n");
         
     return 0;
 }
